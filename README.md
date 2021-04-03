@@ -1,0 +1,2 @@
+# exerscism
+Exercism practice
