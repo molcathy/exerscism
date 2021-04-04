@@ -130,3 +130,6 @@ dmypy.json
 
 # Do not track exercism metadata
 .exercism/
+
+# Ignoring vscode dirs
+.vscode/
